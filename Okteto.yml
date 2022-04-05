@@ -4,7 +4,7 @@ selector:
   app.kubernetes.io/part-of: vote
   app.kubernetes.io/component: api
 image: python:3
-command: ["python", "app.py"]
+command: ["python3", "main.py"]
 workdir: /usr/src/app
 sync:
  - .:/usr/src/app
