@@ -6,7 +6,7 @@
     "e",
     "g"
   ],
-  "repository": "https://github.com/Iamsreerag/File-SharingBot",
+  "repository": "https://github.com",
   "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
   "env": {
     "TG_BOT_TOKEN": {
